@@ -78,7 +78,7 @@ This project is a multifunctional smart car controlled by an Arduino Uno. It sup
 
 ## 👤 Author
 
-Group Project by **Adam Kamal**
+Project by **Adam Kamal**
 
 ---
 
