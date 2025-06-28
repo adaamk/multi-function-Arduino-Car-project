@@ -86,4 +86,14 @@ Project by **Adam Kamal**
 
 This project is open-source. Feel free to use and modify it.
 
+## 📄 Project Presentation
+
+<p align="center">
+  <a href="./Smart_car.pdf">
+    <img src="images/smart_car_presentation_cover.png" alt="Presentation PDF" width="400">
+  </a>
+  <br>
+  <a href="./Smart_car.pdf"><strong>Click here to view the full presentation (PDF)</strong></a>
+</p>
+
 ---
